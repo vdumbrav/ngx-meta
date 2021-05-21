@@ -1,6 +1,6 @@
 {
   "name": "@vdumbrava/meta",
-  "version": "10..1",
+  "version": "10.0.1",
   "peerDependencies": {
     "@angular/core": "^12.0.1",
     "@angular/platform-browser": "^12.0.1",
